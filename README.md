@@ -1,5 +1,6 @@
 # 📚 Programmers_BackEnd_Devcourse
 
+
 ![](https://i.imgur.com/bbdR1Fp.png)
 
 
@@ -14,7 +15,7 @@
 |Cloud|`2022-07-07` ~ `2022-07-15`|[learning log](https://github.com/yuminhwan/programmers_TIL/tree/main/8.%20Cloud)|
 
 
----
+<br>
 
 ## 📙 Mission 
 | Project | Period | Repository | Pull Request & Review | Learning Log |
@@ -26,7 +27,7 @@
 |게시판 미션|`2022-05-09` ~ `2022-05-13`|[repository](https://github.com/yuminhwan/springboot-board-jpa)|[pull request](https://github.com/prgrms-be-devcourse/springboot-board-jpa/pull/92)|-|
 |URL shortener|`2022-06-06` ~ `2022-06-17`|[repository](https://github.com/yuminhwan/springboot-board-jpa)|[pull request](https://github.com/prgrms-be-devcourse/springboot-url-shortener/pull/17)|-|
 
----
+<br>
 
 
 ## 📗 Project 
@@ -37,7 +38,7 @@
 |Woorimap|`2022-07-18` ~ `2022-08-17`|[repository](https://github.com/prgrms-web-devcourse/Team-MusseukPeople-WooriMap-BE)|
 
 
-***
+<br>
 
 ## 📔 Study 
 
@@ -47,3 +48,7 @@
 |객체 지향 사실과 오해 스터디|`2022-05-11` ~ `2022-06-08`|[repository](https://github.com/dya-mond/Book-Study)|
 |클린 아키텍처 스터디|`2022-07-13` ~ `2022-07-20`|[notion](https://backend-devcourse.notion.site/59f6e5d0c20348f69d6845d38326495c)|
 
+<br>
+
+## Refernece 
+해당 글은 [연로그](https://yeonyeon.tistory.com/)님의 [woowacourse-archive](https://github.com/yeon-06/woowacourse-archive)를 수정하여 제작되었습니다.
