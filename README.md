@@ -25,7 +25,7 @@
 |쿠폰 관리 미션|`2022-04-04` ~ `2022-04-22`|[repository 1](https://github.com/yuminhwan/springboot-basic/tree/week1/yuminhwan) <br> [repository 2](https://github.com/yuminhwan/springboot-basic/tree/week2/yuminhwan) <br>[repository 3](https://github.com/yuminhwan/springboot-basic/tree/week3/yuiminhwan) |[pull request 1](https://github.com/prgrms-be-devcourse/springboot-basic/pull/186) <br> [pull request 2](https://github.com/prgrms-be-devcourse/springboot-basic/pull/186) <br> [pull request 3](https://github.com/prgrms-be-devcourse/springboot-basic/pull/425)|[learning log](https://studyhardd.tistory.com/68?category=1004704)|
 |JPA order|`2022-05-09` ~ `2022-05-13`|[repository](https://github.com/yuminhwan/springboot-jpa)|[pull request 1](https://github.com/prgrms-be-devcourse/springboot-jpa/pull/13) <br>[pull request 2](https://github.com/prgrms-be-devcourse/springboot-basic/pull/272) <br>[pull request 3](https://github.com/prgrms-be-devcourse/springboot-jpa/pull/93)|-|
 |게시판 미션|`2022-05-09` ~ `2022-05-13`|[repository](https://github.com/yuminhwan/springboot-board-jpa)|[pull request](https://github.com/prgrms-be-devcourse/springboot-board-jpa/pull/92)|-|
-|URL shortener|`2022-06-06` ~ `2022-06-17`|[repository](https://github.com/yuminhwan/springboot-board-jpa)|[pull request](https://github.com/prgrms-be-devcourse/springboot-url-shortener/pull/17)|-|
+|URL shortener|`2022-06-06` ~ `2022-06-17`|[repository](https://github.com/yuminhwan/springboot-url-shortener)|[pull request](https://github.com/prgrms-be-devcourse/springboot-url-shortener/pull/17)|-|
 
 <br>
 
